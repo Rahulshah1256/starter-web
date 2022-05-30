@@ -1,5 +1,6 @@
 # Starter Web Project
  This is project name
+ this project is build on front end technologies
 
 ## Introduction
 This is introduction of the project
